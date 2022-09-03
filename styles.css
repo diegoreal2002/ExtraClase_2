@@ -1,0 +1,66 @@
+﻿header {
+    background-color: #FA9494;
+}
+#header-img{
+    width: 10em;
+    height: 10em;
+    cursor: pointer;
+}
+#form-submit{
+    font-weight: bold;
+    color: #e20599;
+    background-color: transparent;
+    border-color: #e20599;
+    border-radius: 5px;
+}
+#form-login{
+    border: 2px solid #e20599!important
+}
+#btn-inscribirse{
+    color: #e20599;
+    cursor: pointer;
+    font-weight: bold;
+}
+#btn-inscribirse:hover{
+    text-decoration: underline;
+}
+input{
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid gray;
+    margin: 5px 0;
+}
+aside{
+    background-color: #CFD2CF;
+}
+article{
+    background-color: aliceblue;
+}
+#nav-ul{
+    list-style: none;
+    padding: 0;
+    margin: auto;
+}
+#nav-ul li{
+    padding: 5px 55px;
+    background-color: transparent;
+    border: 2px solid #FA9494;
+    font-weight: bold;
+    color: #e42cb6;
+    border-radius: 5px;
+    text-align: center;
+    margin: 5px;
+    cursor: pointer;
+}
+#nav-ul li:hover{
+    background-color: #FA9494;
+}
+#form-register{
+    border: 1px solid #FA9494;
+}
+#form-register-h3{
+    color: #e20599;
+}
+footer{
+    background-color: #EB1D36;
+}
